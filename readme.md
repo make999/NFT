@@ -1,9 +1,9 @@
 ## NFT Project
 
-Project consists of 3 parts
- - frontend
- - backend
- - blockchain contracts
+Проект состоит из 3 частей
+ - фронтенд находится в папке frontend
+ - бэк в папке backend
+ - и смарт контракты в папке contracts
 
 ### Демо проекта
 
